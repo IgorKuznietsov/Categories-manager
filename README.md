@@ -8,6 +8,6 @@ Authorization required. The demonstration user can be created via browser. Just 
 
 The application provides an opportunity to create abstract 'categories' with hierarchical structure. The control buttons appear after a long press at the certain category. New categories can be added to the existing 'parent' one.  A category can be renamed or removed.
 
-The application tested at the android cell phone with Expo app.
+The application created with create-react-native-app package and tested at the android cell phone with Expo app.
 
 P.S.: Being my FIRST application it contains a lot of crutches and non-patern stuffs. 
